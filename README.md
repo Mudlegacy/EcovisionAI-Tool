@@ -8,7 +8,7 @@
 
 > 🌱 **Intelligent Environmental Analysis** - Leveraging AI to understand and protect our environment
 
-![EcoVision AI Banner](https://github.com/Tomisin92/EcoVisionAI/assets/banner.png)
+![EcoVision AI Banner](https://github.com/Mudlegacy/EcovisionAI-Tool/assets/banner.png)
 
 ## 📖 Table of Contents
 
@@ -79,7 +79,7 @@ Deploy your own instance in minutes:
 ### 🏃‍♂️ **Local Development**
 ```bash
 # Clone the repository
-git clone https://github.com/Tomisin92/EcoVisionAI.git
+git clone https://github.com/Mudlegacy/EcovisionAI-Tool.git
 cd EcoVisionAI
 
 # Create virtual environment
@@ -108,7 +108,7 @@ streamlit run app.py
 
 #### 1. **Clone Repository**
 ```bash
-git clone https://github.com/Tomisin92/EcoVisionAI.git
+git clone https://github.com/Mudlegacy/EcovisionAI-Tool.git
 cd EcoVisionAI
 ```
 
@@ -528,3 +528,4 @@ Whether you're a developer, researcher, educator, or environmental advocate, the
 Made with ❤️ for our planet • © 2025 EcoVision AI • Open Source MIT License
 
 </div>
+
