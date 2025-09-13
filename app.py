@@ -796,7 +796,7 @@ def main():
                 uploaded_image = Image.open(camera_image)
         
         if uploaded_image:
-            st.image(uploaded_image, caption="Input Image", width='Content')
+            st.image(uploaded_image, caption="Input Image", width='content')
             
             # Analysis button
             if st.button("🚀 Analyze with AI", type="primary"):
@@ -1015,6 +1015,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
